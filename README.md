@@ -25,7 +25,7 @@ I am always eager to learn new technologies and improve my skills. Currently, I 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 #### 📈 GitHub Stats
-[![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar027&show_icons=true&theme=radical)]
+[![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar027&show_icons=true&theme=radical)
 
 
 
