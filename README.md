@@ -25,8 +25,7 @@ I am always eager to learn new technologies and improve my skills. Currently, I 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 #### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+[![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar027&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-Feel free to modify this template to better fit your experiences and preferences. If you provide more specific details about your projects and interests, I can further tailor the bio for you.
+
