@@ -13,7 +13,7 @@ I am a passionate **Web Developer** with a knack for crafting elegant and effici
 - **[Portfolio Website](https://your-portfolio-link.com)**: A personal portfolio showcasing my projects, skills, and experience.
 - **[E-commerce Platform](https://github.com/your-ecommerce-project)**: A fully functional e-commerce website with payment integration.
 - **[Blog Platform](https://github.com/your-blog-project)**: A dynamic blog platform with user authentication and content management.
-- **[TextUtility App]([https://github.com/your-blog-project](https://ammars-textutils.vercel.app/))**: A React application designed for text manipulation. It provides various features to convert and process text, with customizable themes to enhance the user experience. Users can switch between light, dark, and specialized themes effortlessly.
+- **[TextUtility App](https://ammars-textutils.vercel.app/)**: A React application designed for text manipulation. It provides various features to convert and process text, with customizable themes to enhance the user experience. Users can switch between light, dark, and specialized themes effortlessly.
 
 #### 🌱 Learning & Growth
 I am always eager to learn new technologies and improve my skills. Currently, I am exploring:
