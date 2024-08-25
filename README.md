@@ -22,9 +22,9 @@ I am always eager to learn new technologies and improve my skills. Currently, I 
 - **GraphQL**: For more efficient data fetching and better API management.
 
 #### 💬 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/your-profile)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Ammar Multani](https://www.linkedin.com/in/ammar-multani/)
+- **Instagram**: [ammarmultanii](https://www.instagram.com/ammarmultanii/)
+- **Email**: [ammarmultani007@gmail.com](mailto:ammarmultani007@gmail.com])
 
 #### 📈 GitHub Stats
 ![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar027&show_icons=true&theme=radical)
