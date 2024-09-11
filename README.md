@@ -11,9 +11,8 @@ I am a passionate **Web Developer** with a knack for crafting elegant and effici
 
 #### 🛠 Projects
 - **[Portfolio Website]()**: A personal portfolio showcasing my projects, skills, and experience.
-- **[E-commerce Platform]()**: A fully functional e-commerce website with payment integration.
-- **[Blog Platform]()**: A dynamic blog platform with user authentication and content management.
 - **[NewsRadar](https://ammars-newsradar.vercel.app)**: A React-based web application that provides up-to-date news articles from around the world along with real-time stock information and a current time display. Features smooth scrolling navigation and a dark mode toggle.
+- **[iNotes](https://ammars-inotes.vercel.app/)**:i Notes is your personal note-taking companion, designed to simplify your life and help you stay organized. Whether it's for work, personal projects, or just jotting down random thoughts, iNotes is here to make note management easy and intuitive..
 - **[TextUtility App](https://ammars-textutils.vercel.app/)**: A React application designed for text manipulation. It provides various features to convert and process text, with customizable themes to enhance the user experience. Users can switch between light, dark, and specialized themes effortlessly.
 
 #### 🌱 Learning & Growth
