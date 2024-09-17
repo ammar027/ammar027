@@ -7,7 +7,7 @@ I am a passionate **Web Developer** with a knack for crafting elegant and effici
 - **Backend Development**: Node.js, Express, Django, Flask
 - **Database Management**: MySQL, MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
-- **Tools & Technologies**: Docker, AWS, Heroku, Webpack
+- **Tools & Technologies**: Docker, AWS, Heroku, Webpack,Render
 
 #### 🛠 Projects
 - **[Portfolio Website]()**: A personal portfolio showcasing my projects, skills, and experience.
